@@ -1,0 +1,30 @@
+
+p {text-align:justify; /*text-indent:50px;*/}
+p.italic {font-style:italic;}
+p.oblique {font-style:oblique;}
+p#note{font-size: 12px;font-style:italic;}
+
+ul {	margin-bottom: 40px;}
+
+li {	margin-bottom: 10px;}
+
+a:link {
+    color: #FFFFFF;
+}
+
+a:visited {
+    color: #7C6A64;
+}
+	
+table {width:100%;}
+
+td.coord {
+	text-align:left;
+	font-size: 14px;
+}
+
+
+
+
+
+ 
