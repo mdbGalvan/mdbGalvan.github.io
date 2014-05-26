@@ -23,6 +23,18 @@ td.coord {
 	font-size: 14px;
 }
 
+div#idioma {
+	margin: 10px;
+}
+
+img.next_button {
+    border: 0px;
+    height: 40px;
+    text-align: right;
+}
+
+
+
 
 
 

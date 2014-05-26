@@ -1,9 +1,9 @@
 ***
 >**Autora:**         *María D. Batista Galván*  
->**Asignatura:**     *Procesadores de Lenguajes*  
->**Titulación:**     *Grado en Informática*
+>**Asignatura:**     *Language Processors*  
+>**Titulación:**     *Degree of Computer Sciences*
 ***
 
 ##Página Principal
 
->En esta página se muestran todos los enlaces a las prácticas realizadas para la titulación de **Grado de Informática** separadas por *Asignaturas*.
+>On this website you will find the links to the practices for the **Degree of Computer Science** separated for **subject**.
